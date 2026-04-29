@@ -1,0 +1,24 @@
+{
+  "name": "Student Income Calculator",
+  "short_name": "IncomeCalc",
+  "description": "A personalized \u20b91 lakh per month income calculator for Indian students.",
+  "start_url": "./student-income-calculator.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#171614",
+  "theme_color": "#01696f",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
